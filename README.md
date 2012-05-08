@@ -1,5 +1,5 @@
 # Slammy - an extremely lightweight and easy hashbang handler
-**Slammy is lightweight and completely dependency free, written in standard JavaScript.
+**Slammy is lightweight and completely dependency free, written in standard JavaScript.**
 
 ## About
 When you're writing small JavaScript applications and you're doing a lot of Ajax request -- you don't really need to reload the whole application, do you? Instead you can use hashbang routes to handle view changes, and this small library will enable this in an easy manner.
