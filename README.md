@@ -4,6 +4,15 @@
 ## About
 When you're writing small JavaScript applications and you're doing a lot of Ajax request -- you don't really need to reload the whole application, do you? Instead you can use hashbang routes to handle view changes, and this small library will enable this in an easy manner.
 
+## Browser compatability
+The library is tested in:
+
+* Firefox 11, 12
+* Chrome 17, 18
+* IE 7, IE 8, IE 9
+* Safari 5
+* Opera 11
+
 ## Usage example
 **javascripts/application.js**
 
