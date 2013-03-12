@@ -62,7 +62,7 @@ The library is tested in:
 
             </div>
 
-            <script src="javascripts/slammy-0.1-min.js"></script>
+            <script src="javascripts/slammy-1.0-min.js"></script>
             <script src="javascripts/application.js"></script>
 
         </body>
