@@ -1,5 +1,5 @@
 /**
-* Slammy 0.1
+* Slammy 1.0
 *
 * An extremely lightweight and easy hashbang
 * route handler in standard JavaScript - completly
@@ -7,8 +7,8 @@
 *
 * @author Björn Wikström <bjorn@welcom.se>
 * @license LGPL v3 <http://www.gnu.org/licenses/lgpl.html>
-* @version 0.1
-* @copyright Welcom Web i Göteborg AB 2012
+* @version 1.0
+* @copyright Welcom Web i Göteborg AB 2013
 */
 ;(function (window, document, undef) {
 
